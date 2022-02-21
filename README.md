@@ -5,7 +5,7 @@
   
   <br />
   
-  | title  | source |
+  | study note  | source material |
 | ------------- | ------------- |
 | [BERT Research Series](BERT%20Research%20Series.pdf)  | [Chris Cormick's videos](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)  |
 
