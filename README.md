@@ -5,9 +5,9 @@
   
   <br />
   
-  | study note  | source material |
-| ------------- | ------------- |
-| [BERT Research Series](BERT%20Research%20Series.pdf)  | [Chris Cormick's videos](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)  |
+  | study note  | source material | study date |
+| ------------- | ------------- | ------------- |
+| [BERT Research Series](BERT%20Research%20Series.pdf)  | [Chris Cormick's videos](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)  | 02/2022 |
 
 </div>
 
