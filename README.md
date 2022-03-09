@@ -8,6 +8,6 @@
   | study note  | source material | study date |
 | ------------- | ------------- | ------------- |
 | [BERT Research Series](BERT%20Research%20Series.pdf)  | [Chris Cormick's videos](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)  | 02/2022 |
-
+|  | [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) | 03/2022 |
 </div>
 
