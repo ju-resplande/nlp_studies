@@ -11,5 +11,6 @@
 |  | [Deep Learning Illustrated book](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) | 03/2022 |
 | [Made With ML](MadeWithML.pdf)  | [Made With ML lessons](https://madewithml.com)  | 04/2022 |
 | [Dive Into Deep Learning: chapters 1-5](d2l_1-5.pdf)  | [Dive Into Deep Learning book](http://d2l.ai/)  | 05/2022 |
+| [Dive Into Deep Learning: chapters 6-7](d2l_6-7.pdf)  | [Dive Into Deep Learning book](http://d2l.ai/)  | 06/2022 |    
 </div>
 
