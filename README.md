@@ -14,6 +14,6 @@
 | [Dive Into Deep Learning: chapters 6-7](d2l_6-7.pdf)  | [Dive Into Deep Learning book](http://d2l.ai/)  | 06/2022 |
 |  | [Question Answering Research](https://youtube.com/playlist?list=PLam9sigHPGwNX4Sdrojqcy5CJcXvbSUPz) | 07/2022 | 
 |  | [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY) | 01/2023 |
-| [Repo](https://github.com/ju-resplande/transformer_from_scratch) | [Pytorch Transformers from Scratch](hhttps://youtu.be/U0s0f995w14) | 02/2023 |
+| [Repo](https://github.com/ju-resplande/transformer_from_scratch) | [Pytorch Transformers from Scratch](https://youtu.be/U0s0f995w14) | 02/2023 |
 </div>
 
